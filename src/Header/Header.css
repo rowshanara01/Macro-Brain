@@ -1,0 +1,39 @@
+/* Navbar.css */
+.navbar {
+  background-color: #343a40; 
+}
+
+.navbar-brand {
+  color: #f8f9fa !important; 
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.navbar-toggler {
+  border: none !important; 
+  outline: none; 
+  box-shadow: none;
+}
+
+.navbar-toggler:focus {
+  box-shadow: none !important;
+}
+
+.nav .nav-link {
+  color: #f8f9fa !important; 
+  margin: 0 10px; 
+}
+
+.nav .nav-link:hover {
+  color: #17a2b8 !important; 
+  text-decoration: underline;
+}
+
+.navbar-collapse {
+  justify-content: space-between; 
+}
+
+.navbar .nav-link.active {
+  color: #17a2b8 !important; 
+  font-weight: bold;
+}

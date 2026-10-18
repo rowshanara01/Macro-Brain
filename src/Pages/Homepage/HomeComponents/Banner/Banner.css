@@ -1,0 +1,21 @@
+.headLine {
+  font-size: 40px;
+}
+
+.imgSize {
+  width: 100%;
+}
+
+.learn-more-btn {
+  background-color: #262626; 
+  padding: 8px;
+  border-radius: 5px;
+  color: white; 
+  border: 1px solid white; 
+}
+
+.learn-more-btn:hover {
+  background-color: white; 
+  color: #262626; 
+  border: 1px solid white;
+}
